@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "first-code-space": "apps/first-code-space",
+    "first-code-space-e2e": "apps/first-code-space-e2e"
+  }
+}
